@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NGlov
 - 👀 I’m interested in data science and web development!
-- 🌱 I’m currently studying Computer Science and NJIT!
+- 🌱 I’m currently studying Computer Science at NJIT!
 
 <!---
 NGlov/NGlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
